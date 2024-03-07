@@ -8,6 +8,7 @@
         <cenc:pssh>AAAANHBzc2gBAAAAEHfv7MCyTQKs4zweUuL7SwAAAAH+bZTtkjDH009KuUTMM3tEAAAAAA==</cenc:pssh>
       </ContentProtection>
       <Representation id="0" bandwidth="1207711" codecs="avc1.4d401f" mimeType="video/mp4" sar="1:1">
+        <BaseURL>BigBuckBunny_clearkey.mp4</BaseURL>
         <SegmentBase indexRange="1090-1133" timescale="12800">
           <Initialization range="0-1089"/>
         </SegmentBase>
